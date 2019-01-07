@@ -1,0 +1,18 @@
+Plik
+
+Nowy
+Otwórz
+Zapisz
+Zapisz jako...
+Koniec
+
+
+Edycja
+
+Wytnij (Ctrl+X)
+Kopiuj (Ctrol+C)
+Wklej (Ctrl+V)
+Zaznacz wszystko (Ctrl+A)
+
+
+
